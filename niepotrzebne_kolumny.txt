@@ -1,0 +1,12 @@
+tourney_id
+tourney_name
+draw_size
+match_num
+winner_seed
+winner_name
+loser_seed
+winner_ioc
+loser_name
+loser_seed
+loser_ioc
+score
